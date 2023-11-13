@@ -18,10 +18,7 @@ Save the data to the file
 
 
 # CODE
-```
- NAME : SANJAY S
- REG NO : 212222230132
-```
+
 ```
 import pandas as pd
 import numpy as np
